@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head><div height="800px" width="600px"> 
+
+	<title>e-Toilet</title>
+</head>
+<body>
+<h1 align="center" style="background-color:blue;">GOV. e-Toilet</h1></div>
+<h2 align="center" style="text-color:green;">DOOR 1 FOR WOMEN AND DOOR 2 FOR MEN</h2>
+<h3 align="center">DOOR 1</h3> <h3 style="color: green;">OPEN</h3>  <h3 align="center">DOOR 2</h3> <h3 style="color: red;">OPEN</h3>
+<h3 align="center">Price for Each uses </h3>
+<h3 align="center">PLEASE SELECT ANY OPTION</h3>
+<p align="center" style="background: green;">
+Urine-2
+Shit-5
+Bath-10</p>
+<H2></H2>
+<p align="left">ENTER THE COIN HERE PLEASE</p>
+<h3 align="centr">press start botton to unlock and use</h3>
+<button>Start</button>
+<h2 align="right">nb:after 30min 2 Rs per 10min</h2>
+<h3 align="center">kindy give a feedback to our e toilet website www.etoilet.gov.in</h3>
+</body>
+</html>
