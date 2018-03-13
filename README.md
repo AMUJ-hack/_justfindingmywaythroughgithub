@@ -10,11 +10,11 @@ We have decided to put up an idea where public toilets work automatically with t
 **WORKING**
 <br />
 1.COUNTER SECTION
-before the man enter the toilet he gets a screen between the door where he is aked
-a.Gender
-b.Purpose(Toilet or bath)
-When he choses the option he is allowed to pay the money shown and screen shows the available toilets.
-2.He is allowed to enter the toilet
-3.After the man leaves the sensor inside the flush tank checks if it is empty.If not flush again goes on.
-4.After every certain amount of time (which can be set by a operator based on crowd) the automatic swiper and odour freshner goes on, which works on loop.
-5.the seats are also cleaned after every man exits to provide bettewr hygeine.this can be worked according to the time when the flush works
+before the man enter the toilet he gets a screen between the door where he is aked<br />
+a.Gender<br />
+b.Purpose(Toilet or bath)<br />
+When he choses the option he is allowed to pay the money shown and screen shows the available toilets.<br />
+2.He is allowed to enter the toilet<br />
+3.After the man leaves the sensor inside the flush tank checks if it is empty.If not flush again goes on.<br />
+4.After every certain amount of time (which can be set by a operator based on crowd) the automatic swiper and odour freshner goes on, which works on loop.<br />
+5.the seats are also cleaned after every man exits to provide bettewr hygeine.this can be worked according to the time when the flush works<br />
