@@ -1,4 +1,2 @@
 # _justfindingmywaythroughgithub
-gotacompetition to hit at
-hello
-hai
+Use Of Programing in Unconvectional Situation
