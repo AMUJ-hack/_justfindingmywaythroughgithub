@@ -1,2 +1,1 @@
-# _justfindingmywaythroughgithub
-Use Of Programing in Unconvectional Situation
+Use of programing in unconvectional situations
